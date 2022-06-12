@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    display: flex;
+    height: 400px;
+}
+.item1, .item2, .item3{
+    background-color: aqua;
+    border: 2px solid black;
+}
