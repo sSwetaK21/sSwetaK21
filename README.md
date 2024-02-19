@@ -27,7 +27,7 @@
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 </a>
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWordPress.com&psig=AOvVaw2Ehn6qXXkKBqSmcJ3XbQhL&ust=1708423211790000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCl2fSRt4QDFQAAAAAdAAAAABAO" alt="WordPress" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
 </a>
 
  </p>
